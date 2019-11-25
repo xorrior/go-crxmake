@@ -21,7 +21,7 @@ import (
 
 var (
 	header         = []byte{'C', 'r', '2', '4'}
-	version uint32 = 2
+	version uint32 = 3
 )
 
 const keyFilename = "key.pem"
